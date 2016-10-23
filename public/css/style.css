@@ -1,0 +1,20 @@
+body {
+  background-color: #efefef;
+}
+
+.main-content {
+  width: 90%;
+  margin: auto auto;
+  text-align: center;
+  border: 2px solid #3c3c3c;
+  padding: .5em;
+}
+
+.thing {
+  width: 80%;
+  margin: 1em auto;
+  text-align: center;
+  background-color: #deedde;
+  padding: 1em;
+  box-shadow: 2px 2px 6px #555;
+}

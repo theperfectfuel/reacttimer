@@ -1,0 +1,11 @@
+@import "base/variables";
+@import "components/nav";
+@import "components/clock";
+@import "Components/controls";
+
+.page-title {
+  margin-top: $space-large;
+  margin-bottom: $space-large;
+  text-align: center;
+  font-size: 2.6em;
+}
